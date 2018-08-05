@@ -6,6 +6,5 @@ public class Main {
 	// write your code here
 
         System.out.println("First Changes");
-	System.out.println("Changes from GitHub");
     }
 }
