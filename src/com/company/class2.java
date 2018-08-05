@@ -10,6 +10,8 @@ public class class2 {
         System.out.println("once again stash");
        // https://git-scm.com/docs/git-stash
         // sfhislfhsdf
+
+        System.out.println("other branch ka sauda sa hai re");
     }
 
 
