@@ -8,6 +8,8 @@ public class class2 {
         System.out.println("Yo bani hai bhaiya class dusri");
 
         System.out.println("once again stash");
+       // https://git-scm.com/docs/git-stash
+        // sfhislfhsdf
     }
 
 
