@@ -8,6 +8,10 @@ public class class2 {
         System.out.println("Yo bani hai bhaiya class dusri");
 
         System.out.println("once again stash");
+        //kdkdfkjkjdfjkdfjdfjdfjdfjkfdjkfdj
+        System.out.println("Master branch ka sauda");
+
+
     }
 
 
