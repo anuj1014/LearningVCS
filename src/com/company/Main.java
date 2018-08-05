@@ -7,5 +7,7 @@ public class Main {
 
         System.out.println("First Changes");
         System.out.println("Commit from Intellij using available options");
+        System.out.println("Class 2 add karne ke baad modification");
+
     }
 }
