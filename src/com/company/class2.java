@@ -6,6 +6,8 @@ public class class2 {
 
         //System.out.println("First Changes");
         System.out.println("Yo bani hai bhaiya class dusri");
+
+        System.out.println("once again stash");
     }
 
 
