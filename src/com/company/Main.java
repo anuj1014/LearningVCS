@@ -6,5 +6,6 @@ public class Main {
 	// write your code here
 
         System.out.println("First Changes");
+        System.out.println("Commit from Intellij using available options");
     }
 }
