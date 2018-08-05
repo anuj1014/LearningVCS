@@ -14,6 +14,10 @@ public class Main {
         System.out.println("yo Sauda Master branch ka sai");
         System.out.println("Dhyan Rakhiyo re");
 
+        System.out.println("other branch ka sauda sa hai re");
+        System.out.println("other branch ka sauda sa hai re");
+
+
 
 
     }
